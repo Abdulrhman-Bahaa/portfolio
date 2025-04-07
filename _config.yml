@@ -1,5 +1,4 @@
 title: Abdulrhman Bahaa El Din
-# logo: /assets/img/headshot_circle.png
-#description: text below image
-show_downloads: true
+logo: /images/my_photo.png
+description: A highly motivated embedded software engineering student
 theme: jekyll-theme-minimal
