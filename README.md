@@ -2,12 +2,12 @@
 - Good C programing, data structure and algorithms. These were obtained from HackerRank:
   - C Golden Badge
   - C++ Silver Badge
-  - https://www.hackerrank.com/profile/abdulrhman_baha1
 - Microcontroller interfacing: many device drivers have been written for 8 bit microcontrollers (ATmega328P, PIC16f887) like: GPIO, interrupt handling, ADC, EEPROM, UART and I2C 
-https://github.com/Abdulrhman-Bahaa/8-bit-mcu-interfaces/tree/main
-These projects have been implemented during this part:
-https://github.com/Abdulrhman-Bahaa/embedded-system-apps
-
+  - [device drivers](https://github.com/Abdulrhman-Bahaa/device-drivers)
+- Embedded System Projects:
+  - [Unmanned Aerial System (UAS)](https://github.com/Abdulrhman-Bahaa/embedded-system-projects/tree/main/uas)
+  - [OLED Based Password Authenticator]([oled_based_password_authenticator/](https://github.com/Abdulrhman-Bahaa/embedded-system-projects/tree/main/oled_based_password_authenticator))
+  - [ShadowAuth (Modular password authentication system)](https://github.com/Abdulrhman-Bahaa/embedded-system-projects/tree/main/shadow_auth)
 ## Technical Skills
 - Python Programming Language
 - C and C++ Programming Language
