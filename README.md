@@ -29,7 +29,8 @@ Electronic Engineering - Menofia University |
 - **Embedded:** STM32CubeIDE, MPLAB X, PlatformIO, Arduino Ide
 - **Version Control:** Git, GitHub  
 - **Debugging & Analysis:** Serial Monitor, Logic Analyzer, Multimeter
-- **Simulation & Design:** Proteus, LTspice, Multisim, EasyEDA, KiCad, FreeCAD
+- **Simulation & Design:** Proteus, PICSimLab, LTspice, Multisim, EasyEDA, KiCad, FreeCAD
+- **Documentation:** Markdown, Doxygen, Sphinx, Confluence, Google Docs
 
 ## Social Media
 - [LinkedIn Profile](https://www.linkedin.com/in/abdulrhman-bahaa-1b9428224/)
